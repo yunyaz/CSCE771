@@ -3,10 +3,10 @@ The dataset is available on https://www.kaggle.com/allen-institute-for-ai/CORD-1
 On the above website it shows that the current version of dataset is 6 GB. However, it is a archive zip folder. The actual size of the dataset is 27 GB. The download time is less than 10 minutes.
 If you would like to execute the program, rename the downloaded dataset as 'data' and put it along with the program named 'CSCE771_code.ipynb' in the same root folder.
 The Dataset contains around 200,000 scholarly articles. Since my laptap can not handle this big dataset for later topic modeling step. I only used 50,000 articles (the first 25% of the dataset)
-Loading this amount of dataset would take around 30 minutes.
-Data processing would take around 25 minutes.
-Vectorization would take around 20 minutes.
-Topic modeling would take around 20 minutes.
+1) Loading this amount of dataset would take around 30 minutes.
+2) Data processing would take around 25 minutes.
+3) Vectorization would take around 20 minutes.
+4) Topic modeling would take around 20 minutes.
 
 
 Input:
