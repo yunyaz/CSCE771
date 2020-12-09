@@ -13,15 +13,15 @@ Input:
 Widgets have been created to type in the search content, which can be keywords, phrases, sentences, or paragraphs.
 
 Two queries that are included in the report:
-Implementation of diagnostics and products to improve clinical processes
-What has been published about medical care?
+1) Implementation of diagnostics and products to improve clinical processes
+2) What has been published about medical care?
 
 More sample queries:
-What antiviral drugs have been tested against coronaviruses?
-What drugs are effective and what are ineffective?
-There are many types of vaccines (inactivated vaccines, modified live virus vaccines, subunit vaccines, DNA vaccines, mRNA vaccines, genetically engineered vaccines, etc.). What types of vaccines have been developed and evaluated against different coronaviruses?
-What has been the conclusion on the effectiveness of the vaccine candidates?
-What are the origins of coronaviruses? How have the coronaviruses been transmitted (cross-species or not)?
+1) What antiviral drugs have been tested against coronaviruses?
+2) What drugs are effective and what are ineffective?
+3) There are many types of vaccines (inactivated vaccines, modified live virus vaccines, subunit vaccines, DNA vaccines, mRNA vaccines, genetically engineered vaccines, etc.). What types of vaccines have been developed and evaluated against different coronaviruses?
+4) What has been the conclusion on the effectiveness of the vaccine candidates?
+5) What are the origins of coronaviruses? How have the coronaviruses been transmitted (cross-species or not)?
 
 
 Output:
