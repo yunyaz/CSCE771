@@ -26,4 +26,4 @@ More sample queries:
 
 Output:
 The documents that are related to the search content will be returned. They will be ranked by the score of similarity. If url is provided in the dataset, click the document will direct to the full document. The number of returned documents is limited to 10, but it can be changed in the program.
-The full screenshots for the output of the above sample queries will be included in the current Github folder. 
+The full screenshots for the output of the above sample queries in combined as sample_output.pdf and included in the current Github folder. 
